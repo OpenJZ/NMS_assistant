@@ -1,0 +1,857 @@
+铁氧体粉末 Ferrite Dust  类型 金属矿提取物 稀有度 常见 基础价值  14 符号 Fe  DATA 原料
+冰霜水晶 Frost Crystal  类型 农业原料 稀有度 稀有 基础价值  12 符号 Fc  DATA 原料
+镉 Cadmium  类型 星球金属 稀有度 稀有 基础价值  234 符号 Cd  DATA 原料
+黄铁矿 Pyrite  类型 地方性土地元素 稀有度 罕见 基础价值  62 符号 Py  DATA 原料
+碳 Carbon  类型 有机元素 稀有度 常见 基础价值  12 符号 C  DATA 原料
+日光茄 Solanium  类型 农业原料 稀有度 稀有 基础价值  70 符号 So  DATA 原料
+钠 Sodium  类型 催化元素 稀有度 罕见 基础价值  41 符号 Na  DATA 原料
+腐藤 Mordite  类型 农业原料 稀有度 常见 基础价值  40 符号 Mo  DATA 原料
+普茵 Pugneum  类型 异星元素 稀有度 稀有 基础价值  138 符号 Pg  DATA 原料
+氯 Chlorine  类型 水生矿物 稀有度 稀有 基础价值  602 符号 Cl  DATA 原料
+浓缩碳 Condensed Carbon  类型 有机元素 稀有度 罕见 基础价值  24 符号 C+  DATA 原料
+硫磺 Sulphurine  类型 气体 稀有度 常见 基础价值  20 符号 Su  DATA 原料
+银 Silver  类型 小行星矿物 稀有度 常见 基础价值  186 符号 Ag  DATA 原料
+铀 Uranium  类型 地方性土地元素 稀有度 罕见 基础价值  62 符号 U  DATA 原料
+氮 Nitrogen  类型 气体 稀有度 稀有 基础价值  20 符号 N  DATA 原料
+硝酸钠 Sodium Nitrate  类型 催化元素 稀有度 稀有 基础价值  82 符号 Na+  DATA 原料
+纳米星团 Nanite Cluster  类型 特殊物质 稀有度 稀有 基础价值  20 符号 ∞  DATA 原料
+活性镉 Activated Cadmium  类型 星球金属 稀有度 稀有 基础价值  450 符号 Cd  DATA 原料
+二氢 Di-hydrogen  类型 高能原料 稀有度 常见 基础价值  34 符号 H  DATA 原料
+氧气 Oxygen  类型 气体 稀有度 常见 基础价值  34 符号 O2  DATA 原料
+葫芦朵 Marrow Bulb  类型 农业原料 稀有度 罕见 基础价值  41 符号 Bu  DATA 原料
+盐 Salt  类型 水生矿物 稀有度 常见 基础价值  299 符号 NaCl  DATA 原料
+活性艾梅里尔 Activated Emeril  类型 星球金属 稀有度 稀有 基础价值  696 符号 Em  DATA 原料
+氘 Deuterium  类型 高能原料 稀有度 常见 基础价值  34 符号 D  DATA 原料
+钴 Cobalt  类型 地下矿物 稀有度 常见 基础价值  198 符号 Co  DATA 原料
+铜 Copper  类型 星球金属 稀有度 常见 基础价值  121 符号 Cu  DATA 原料
+铂 Platinum  类型 小行星矿物 稀有度 稀有 基础价值  505 符号 Pt  DATA 原料
+铟 Indium  类型 星球金属 稀有度 稀有 基础价值  464 符号 In  DATA 原料
+氚 Tritium  类型 高能原料 稀有度 常见 基础价值  6 符号 H3  DATA 原料
+仙人掌肉 Cactus Flesh  类型 农业原料 稀有度 稀有 基础价值  28 符号 Cc  DATA 原料
+磷 Phosphorus  类型 地方性土地元素 稀有度 罕见 基础价值  62 符号 P  DATA 原料
+真菌霉 Fungal Mould  类型 农业原料 稀有度 稀有 基础价值  16 符号 Ml  DATA 原料
+粘性流质 Viscous Fluids  类型 垃圾 稀有度 稀有 基础价值  20 符号 Jn  DATA 原料
+矿脂 Paraffinium  类型 地方性土地元素 稀有度 罕见 基础价值  62 符号 Pf  DATA 原料
+艾梅里尔 Emeril  类型 星球金属 稀有度 稀有 基础价值  348 符号 Em  DATA 原料
+伽马根 Gamma Root  类型 农业原料 稀有度 稀有 基础价值  16 符号 Gr  DATA 原料
+磁化铁氧体 Magnetised Ferrite  类型 金属矿提取物 稀有度 罕见 基础价值  82 符号 Fe++  DATA 原料
+活性铟 Activated Indium  类型 星球金属 稀有度 稀有 基础价值  949 符号 In  DATA 原料
+活性铜 Activated Copper  类型 星球金属 稀有度 常见 基础价值  245 符号 Cu  DATA 原料
+纯铁氧体 Pure Ferrite  类型 金属矿提取物 稀有度 罕见 基础价值  28 符号 Fe+  DATA 原料
+氨 Ammonia  类型 地方性土地元素 稀有度 罕见 基础价值  62 符号 NH3  DATA 原料
+失控的模具 Runaway Mould  类型 垃圾 稀有度 常见 基础价值  20 符号 Jn  DATA 原料
+金 Gold  类型 小行星矿物 稀有度 罕见 基础价值  353 符号 Au  DATA 原料
+活体黏质 Living Slime  类型 垃圾 稀有度 罕见 基础价值  20 符号 Jn  DATA 原料
+二氧化物 Dioxite  类型 地方性土地元素 稀有度 罕见 基础价值  62 符号 CO2  DATA 原料
+磷酸细胞 Cyto-Phosphate  类型 水生矿物 稀有度 稀有 基础价值  201 符号 Cy  DATA 原料
+氡 Radon  类型 气体 稀有度 罕见 基础价值  20 符号 Rn  DATA 原料
+生锈的金属 Rusted Metal  类型 垃圾 稀有度 罕见 基础价值  20 符号 Jn  DATA 原料
+海藻袋 Kelp Sac  类型 农业原料 稀有度 罕见 基础价值  41 符号 Ke  DATA 原料
+有色金属 Chromatic Metal  类型 精炼星球金属 稀有度 稀有 基础价值  245 符号 Ch  DATA 原料
+硅酸盐粉末 Silicate Powder  稀有度 常见 基础价值  2 符号 硅  DATA 原料
+屎球菌 Faecium  类型 农业原料 稀有度 常见 基础价值  30 符号 Fa  DATA 原料
+剩余粘稠物 Residual Goop  类型 垃圾 稀有度 常见 基础价值  20 符号 Jn  DATA 原料
+纳米星团（R） NANITES  类型 特殊物质 稀有度 稀有 基础价值  20 符号 ∞  DATA 原料
+星辰朵 Star Bulb  类型 农业原料 稀有度 稀有 基础价值  32 符号 Sb  DATA 原料
+离子钴 Ionised Cobalt  类型 地下矿物 稀有度 稀有 基础价值  401 符号 Co+  DATA 原料
+甜中带苦的可可 Bittersweet Cocoa  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+护卫舰燃料（50 吨） Frigate Fuel (50 Tonnes)  类型 消耗品 稀有度 稀有 基础价值  20000  DATA 产品
+生物卵 Creature Egg  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+全息分析器 Holographic Analyser  类型 远征模块 稀有度 稀有 基础价值  75000  DATA 产品
+蛋糕面糊 Cake Batter  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+炮弹弹药 Projectile Ammunition  类型 消耗品 稀有度 稀有 基础价值  1  DATA 产品
+异常的馅饼 Anomalous Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+格拉莓 Grahberry  类型 食用产品 稀有度 常见 基础价值  300  DATA 产品
+光学溶剂 Optical Solvent  类型 贸易限定商品 稀有度 常见 基础价值  15000  DATA 产品
+巧克力冰淇淋 Chocolate Ice Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+闹鬼馅饼 Haunted Pie  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+燃料氧化剂 Fuel Oxidiser  类型 远征模块 稀有度 稀有 基础价值  75000  DATA 产品
+活体导管 Organic Piping  类型 贸易限定商品 稀有度 常见 基础价值  30000  DATA 产品
+融合核心 Fusion Core  类型 贸易限定商品 稀有度 常见 基础价值  50000  DATA 产品
+粘性蜂蜜 Sticky 'Honey'  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+晶土矿 Geodesite  类型 合金 稀有度 稀有 基础价值  150000  DATA 产品
+净化油 Clarified Oil  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+可可果馅饼 Cocoa Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+反物质 Antimatter  类型 手工技术部件 稀有度 稀有 基础价值  5233  DATA 产品
+面包 Bread  稀有度 常见 基础价值  800  DATA 产品
+冰淇淋 Ice Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+密封剂 Hermetic Seal  类型 手工技术部件 稀有度 罕见 基础价值  800  DATA 产品
+热电容 Heat Capacitor  类型 高级农产品 稀有度 稀有 基础价值  180000  DATA 产品
+超大甜甜圈 Monstrous Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+腿肉 Leg Meat  稀有度 常见 基础价值  800  DATA 产品
+维生凝胶 Life Support Gel  类型 消耗品 稀有度 罕见 基础价值  200  DATA 产品
+矿物压缩机 Mineral Compressor  类型 远征模块 稀有度 稀有 基础价值  75000  DATA 产品
+不稳定的钠 Destablised Sodium  类型 高浓缩产物 稀有度 稀有 基础价值  12300  DATA 产品
+腿肉馅饼 'Legs-in-Pastry'  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+可口蛋白酥皮 Delicate Meringue  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+奶油 Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+阿特拉斯通行卡 V3 AtlasPass v3  类型 设备 稀有度 稀有 基础价值  2613  DATA 产品
+星盾电池 Starshield Battery  类型 消耗品 稀有度 罕见 基础价值  500  DATA 产品
+奶油酱 Creamy Sauce  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+科尔瓦克斯外壳 Korvax Casing  类型 交易商品 稀有度 稀有 基础价值  22000  DATA 产品
+神经导管 Neural Duct  类型 贸易限定商品 稀有度 常见 基础价值  50000  DATA 产品
+熏肉 Smoked Meat  稀有度 常见 基础价值  800  DATA 产品
+蛋奶甜甜圈 Custard Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+原型黄油 Proto-Butter  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+阿特拉斯通行卡 V2 AtlasPass v2  类型 设备 稀有度 罕见 基础价值  1856  DATA 产品
+仿星器 The Stellarator  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+冷沉淀泵 Cryo-Pump  类型 气体铸造物 稀有度 稀有 基础价值  1500000  DATA 产品
+蛋白珍珠球 Albumen Pearl Orb  类型 农作物 稀有度 稀有 基础价值  3  DATA 产品
+焦糖外皮蛋糕 Caramel-Encrusted Cake  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+太阳之心 Heart of the Sun  类型 阿特拉斯之种 稀有度 稀有 基础价值  1000  DATA 产品
+蛋奶小糕点 Custard Fancy  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+炙热酱 Scorching Sauce  稀有度 常见 基础价值  800  DATA 产品
+水果布丁 Fruity Pudding  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+布兰尼小蛋糕 Briney Delight  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+胶冻皮毛果馅饼 Jellied Fur Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+鱼肉馅饼 Fish Pie  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+原型面糊 Proto-Batter  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+已搅拌的黄油 Churned Butter  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+相位不定体 State Phasure  类型 阿特拉斯之种 稀有度 稀有 基础价值  1000  DATA 产品
+捕获球体 Noospheric Orb  类型 阿特拉斯之种 稀有度 稀有 基础价值  1000  DATA 产品
+火莓 Fireberry  稀有度 常见 基础价值  300  DATA 产品
+异常甜甜圈 Anomalous Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+加糖原型黄油 Sweetened Proto-Butter  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+蠕动甜甜圈 Wriggling Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+低语煎蛋卷 Whispering Omelette  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+超深渊核心 Hadal Core  稀有度 稀有 基础价值  97500  DATA 产品
+炖内脏 Stewed Organs  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+生肉排 Raw Steak  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+去味费洛蒙瓶 De-Scented Pheromone Bottle  类型 贸易限定商品 稀有度 常见 基础价值  1000  DATA 产品
+六臂网孔去耦器  类型 贸易限定商品 稀有度 常见 基础价值  15000  DATA 产品
+溴化盐 Bromide Salt  类型 贸易限定商品 稀有度 常见 基础价值  15000  DATA 产品
+透光玉 Photic Jade  类型 阿特拉斯之种 稀有度 稀有 基础价值  1000  DATA 产品
+VY冰淇淋 Vy'ice Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+自我修复海瑞蒂姆 Self-Repairing Heridium  类型 贸易限定商品 稀有度 常见 基础价值  6000  DATA 产品
+可可甜甜圈 Cocoa Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+致命极寒冰淇淋 Deathly-Cold Ice Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+耐嚼内脏馅饼 Chewy Organ Pie  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+浓化碳 Enriched Carbon  类型 增强型气体产品 稀有度 稀有 基础价值  50000  DATA 产品
+七倍体小麦 Heptaploid Wheat  类型 食用产品 稀有度 常见 基础价值  300  DATA 产品
+风暴水晶 Storm Crystal  稀有度 稀有 基础价值  126000  DATA 产品
+空降舱坐标数据 Drop Pod Coordinate Data  类型 数据模块 稀有度 稀有 基础价值  85000  DATA 产品
+烈酒 Fire Water  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+引力微子宿体 Gravitino Host  类型 农作物 稀有度 稀有 基础价值  3  DATA 产品
+迷失蛋糕 Cake of the Lost  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+星露  类型 贸易限定商品 稀有度 常见 基础价值  15000  DATA 产品
+碳纳米管 Carbon Nanotubes  类型 手工技术部件 稀有度 常见 基础价值  500  DATA 产品
+全息曲柄  类型 贸易限定商品 稀有度 常见 基础价值  30000  DATA 产品
+捕获的纳米节点 Captured Nanode  类型 阿特拉斯之种 稀有度 稀有 基础价值  1000  DATA 产品
+自动定位单元 Autonomous Positioning Unit  类型 贸易限定商品 稀有度 常见 基础价值  30000  DATA 产品
+香浓芝士 Tangy Cheese  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+辛香苹果蛋糕 Spiced 'Apple' Cake  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+球中的阴影 Englobed Shade  类型 阿特拉斯之种 稀有度 稀有 基础价值  1000  DATA 产品
+深渊炖菜 Abyssal Stew  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+熏肉馅饼 Smokey Meat Pie  稀有度 常见 基础价值  800  DATA 产品
+氯化物晶格化 Chloride Lattice  类型 高浓缩产物 稀有度 稀有 基础价值  6150  DATA 产品
+电阻凝胶 Ohmic Gel  类型 贸易限定商品 稀有度 常见 基础价值  15000  DATA 产品
+未提炼黄铁脂 Unrefined Pyrite Grease  类型 贸易限定商品 稀有度 常见 基础价值  6000  DATA 产品
+金琥 Echinocactus  类型 农作物 稀有度 稀有 基础价值  3  DATA 产品
+巨卵 Giant Egg  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+氧气过滤器 Oxygen Filter  类型 手工技术部件 稀有度 罕见 基础价值  615  DATA 产品
+传送协调器  类型 贸易限定商品 稀有度 常见 基础价值  50000  DATA 产品
+导航数据 Navigation Data  类型 数据模块 稀有度 稀有 基础价值  1000  DATA 产品
+大块炖肉 Thick Meat Stew  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+阿特拉斯通行卡 V1 AtlasPass v1  类型 设备 稀有度 常见 基础价值  825  DATA 产品
+甜根 Sweetroot  稀有度 常见 基础价值  300  DATA 产品
+大块甜甜圈 Lumpen Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+辣味炖蔬菜 Fiery Vegetable Stew  稀有度 常见 基础价值  800  DATA 产品
+粘蛋奶沙司 Viscous Custard  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+高卵 Tall Eggs  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+黎明之末 Dawn's End  类型 阿特拉斯之种 稀有度 稀有 基础价值  1000  DATA 产品
+冰叫淋 Iced Screams  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+反物质外壳 Antimatter Housing  类型 手工技术部件 稀有度 罕见 基础价值  6500  DATA 产品
+果酱馅饼 Jam Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+焦糖冰淇淋 Caramel Ice Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+浆根 Pulpy Roots  稀有度 常见 基础价值  300  DATA 产品
+护卫舰燃料（100 吨） Frigate Fuel (100 Tonnes)  类型 消耗品 稀有度 稀有 基础价值  40000  DATA 产品
+奶油内脏炖汤 Creamed Organ Soup  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+稀有金属元素 Rare Metal Element  类型 高浓缩产物 稀有度 稀有 基础价值  4200  DATA 产品
+硅卵 Silicon Egg  稀有度 常见 基础价值  300  DATA 产品
+润滑剂 Lubricant  类型 高级农产品 稀有度 稀有 基础价值  110000  DATA 产品
+聚乙烯纤维 Poly Fibre  类型 高级农产品 稀有度 稀有 基础价值  130000  DATA 产品
+热凝物 Thermic Condensate  类型 增强型气体产品 稀有度 稀有 基础价值  50000  DATA 产品
+五维环面 Five Dimensional Torus  类型 贸易限定商品 稀有度 常见 基础价值  30000  DATA 产品
+蛋奶馅饼 Custard Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+电路板 Circuit Board  类型 高级农产品 稀有度 稀有 基础价值  916250  DATA 产品
+烤蛋 Baked Eggs  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+电火花罐 Spark Canister  类型 贸易限定商品 稀有度 常见 基础价值  1000  DATA 产品
+霜草 Frostwort  类型 农作物 稀有度 稀有 基础价值  3  DATA 产品
+五彩锆 Polychromatic Zirconium  类型 贸易限定商品 稀有度 常见 基础价值  30000  DATA 产品
+试验性能源液体 Experimental Power Fluid  类型 贸易限定商品 稀有度 常见 基础价值  30000  DATA 产品
+迪普洛块 Diplo Chunks  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+六莓 Hexaberry  稀有度 常见 基础价值  300  DATA 产品
+盐晶折射镜 Salt Refractor  类型 手工技术部件 稀有度 罕见 基础价值  30500  DATA 产品
+蠕动果馅饼 Wriggling Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+根茎糊馅饼 Mushed Root Pie  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+神秘炖肉 Mystery Meat Stew  稀有度 常见 基础价值  800  DATA 产品
+充液芝士 Partially-Liquid Cheese  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+烤芝士果馅饼 Baked Cheese Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+野生奶 Wild Milk  稀有度 常见 基础价值  800  DATA 产品
+步行机脑 Walker Brain  类型 护卫部件 稀有度 稀有 基础价值  35000  DATA 产品
+原始香肠馅饼 Proto-Sausage Pie  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+拷打蜂蜜蛋糕 Tortured Honey Cake  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+量子加速器 Quantum Accelerator  类型 贸易限定商品 稀有度 常见 基础价值  50000  DATA 产品
+传统蛋糕 Traditional Cake  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+幼虫核心 Larval Core  类型 特殊物件 稀有度 稀有 基础价值  65000  DATA 产品
+不稳定的等离子 Unstable Plasma  类型 消耗品 稀有度 稀有 基础价值  5750  DATA 产品
+煎蛋卷 Omelette  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+焊接皂 Welding Soap  类型 贸易限定商品 稀有度 常见 基础价值  6000  DATA 产品
+活体玻璃 Living Glass  类型 高级农产品 稀有度 稀有 基础价值  566000  DATA 产品
+恐怖黏腻小蛋糕 Horrifying, Gooey Delight  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+孵化果馅饼 The Spawning Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+温热原型奶 Warm Proto-Milk  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+格兰丁 Grantine  类型 合金 稀有度 稀有 基础价值  25000  DATA 产品
+钠二极管 Sodium Diode  类型 手工技术部件 稀有度 罕见 基础价值  3500  DATA 产品
+液体炸弹 Liquid Explosive  类型 高级农产品 稀有度 稀有 基础价值  800500  DATA 产品
+超氧化物晶体 Superoxide Crystal  类型 高浓缩产物 稀有度 稀有 基础价值  5100  DATA 产品
+带刺的馅饼 Spikey Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+豹纹水果 Leopard-Fruit  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+原芝士 ProtoCheese  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+量子处理器 Quantum Processor  类型 先进铸造物 稀有度 稀有 基础价值  4400000  DATA 产品
+吉克小吸 GekNip  类型 交易商品 稀有度 罕见 基础价值  20625  DATA 产品
+永久蛋糕 Perpetual Cake  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+罪恶蛋糕 Cake of Sin  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+奶油餐包 Cream Buns  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+漩涡立方 Vortex Cube  类型 交易商品 稀有度 稀有 基础价值  5800  DATA 产品
+卷线器 Wiring Loom  类型 数据模块 稀有度 稀有 基础价值  50000  DATA 产品
+熔合触媒 Fusion Accelerant  类型 气体铸造物 稀有度 稀有 基础价值  1500000  DATA 产品
+真菌果馅饼 Fungal Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+赫罗克斯 Herox  类型 合金 稀有度 稀有 基础价值  25000  DATA 产品
+合成蜂蜜 Synthetic Honey  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+野生酵母 Wild Yeast  类型 食用产品 稀有度 常见 基础价值  300  DATA 产品
+蟹肉“苹果” Crab 'Apple'  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+改造过的量子 Modified Quanta  类型 阿特拉斯之种 稀有度 稀有 基础价值  1000  DATA 产品
+蜂蜜黄油甜甜圈 Honeybutter Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+可疑甜蛋糕 Questionably Sweet Cake  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+美味酱 Flavoursome Sauce  稀有度 常见 基础价值  800  DATA 产品
+骨髓肉 Marrow Flesh  稀有度 常见 基础价值  300  DATA 产品
+油酥面团 Pastry  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+休眠设备 Stasis Device  类型 高精制技术产物 稀有度 稀有 基础价值  15600000  DATA 产品
+真菌团 Fungal Cluster  类型 农作物 稀有度 稀有 基础价值  3  DATA 产品
+日光藤 Solar Vine  类型 农作物 稀有度 稀有 基础价值  3  DATA 产品
+曲速超核心 Warp Hypercore  类型 消耗品 稀有度 稀有 基础价值  46750  DATA 产品
+维吉恩雕像 Vy'keen Effigy  类型 交易商品 稀有度 稀有 基础价值  24750  DATA 产品
+古代的钥匙 Ancient Key  类型 特殊物件 稀有度 稀有 基础价值  1000  DATA 产品
+芦荟肉 Aloe Flesh  类型 食用产品 稀有度 常见 基础价值  300  DATA 产品
+苹果冰淇淋 'Apple' Ice Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+脉冲豆 Impulse Beans  稀有度 常见 基础价值  300  DATA 产品
+四足机甲伺服系统 Quad Servo  类型 护卫部件 稀有度 罕见 基础价值  20000  DATA 产品
+星际小糕点 Interstellar Fancy  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+纤维炖菜 Fibrous Stew  稀有度 常见 基础价值  800  DATA 产品
+辐矿 Iridesite  类型 合金 稀有度 稀有 基础价值  150000  DATA 产品
+星球冰淇淋 Stellar Ice Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+阿特拉斯之石 Atlas Stone  类型 交易商品 稀有度 稀有 基础价值  68750  DATA 产品
+氧气胶囊 Oxygen Capsule  类型 消耗品 稀有度 稀有 基础价值  350  DATA 产品
+钴镜 Cobalt Mirror  类型 手工技术部件 稀有度 罕见 基础价值  20500  DATA 产品
+馅饼盒 Pie Case  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+心灵之弧 Mind Arc  类型 先进铸造物 稀有度 稀有 基础价值  1000  DATA 产品
+加糖黄油 Sweetened Butter  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+蜂蜜冰淇淋 Honey Ice Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+烂肠花 Gutrot Flower  稀有度 稀有 基础价值  3  DATA 产品
+凝脂馅饼 Solidified Grease Pie  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+咸口甜甜圈 Salty Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+星辰灌木 Star Bramble  类型 农作物 稀有度 稀有 基础价值  3  DATA 产品
+工业级电池 Industrial-Grade Battery  类型 贸易限定商品 稀有度 常见 基础价值  6000  DATA 产品
+华丽蜂蜜蛋糕 Glittering Honey Cake  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+护卫舰燃料（200 吨） Frigate Fuel (200 Tonnes)  类型 消耗品 稀有度 稀有 基础价值  80000  DATA 产品
+胶粘原甜甜圈 Gooey ProtoDoughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+辛香冰淇淋 Spiced Ice  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+纳米管箱 Nanotube Crate  类型 贸易限定商品 稀有度 常见 基础价值  1000  DATA 产品
+灵魂引擎 Soul Engine  类型 先进铸造物 稀有度 稀有 基础价值  1000  DATA 产品
+焦糖甜甜圈 Caramel Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+微处理器 Microprocessor  类型 手工技术部件 稀有度 稀有 基础价值  2000  DATA 产品
+热冰 Hot Ice  类型 气体铸造物 稀有度 稀有 基础价值  320000  DATA 产品
+飞船发射燃料 Starship Launch Fuel  类型 消耗品 稀有度 罕见 基础价值  450  DATA 产品
+金属电镀 Metal Plating  类型 手工技术部件 稀有度 常见 基础价值  800  DATA 产品
+维吉恩匕首 Vy'keen Dagger  类型 交易商品 稀有度 常见 基础价值  11688  DATA 产品
+星绸  类型 贸易限定商品 稀有度 常见 基础价值  6000  DATA 产品
+索拉提洛 Solartillo  稀有度 常见 基础价值  300  DATA 产品
+防御便函 Defence Chit  类型 特殊物件 稀有度 稀有 基础价值  10000  DATA 产品
+吉克遗物 Gek Relic  类型 交易商品 稀有度 稀有 基础价值  23375  DATA 产品
+根茎汁 Root Juice  稀有度 常见 基础价值  800  DATA 产品
+奶油甜点 Creamy Treat  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+毛球果冻 Furball Jelly  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+星球蛋奶馅饼 Stellar Custard Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+漫遊莓 Pilgrimberry  类型 食用产品 稀有度 常见 基础价值  300  DATA 产品
+星球蛋奶沙司 Stellar Custard  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+翻腾打滚面糊 Writhing, Roiling Batter  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+炸弹无人机 Explosive Drones  类型 远征模块 稀有度 稀有 基础价值  75000  DATA 产品
+冷冻块茎 Frozen Tubers  类型 食用产品 稀有度 常见 基础价值  300  DATA 产品
+引力微子球 Gravitino Ball  类型 交易商品 稀有度 稀有 基础价值  13100  DATA 产品
+巨大的金属齿轮  类型 贸易限定商品 稀有度 常见 基础价值  1000  DATA 产品
+希沃特豆 Sievert Beans  类型 食用产品 稀有度 常见 基础价值  300  DATA 产品
+酸 Acid  类型 高级农产品 稀有度 稀有 基础价值  188000  DATA 产品
+里吉斯油 Regis Grease  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+四钴 TetraCobalt  类型 高浓缩产物 稀有度 稀有 基础价值  6150  DATA 产品
+高级离子电池 Advanced Ion Battery  类型 消耗品 稀有度 罕见 基础价值  500  DATA 产品
+二氢凝胶 Di-hydrogen Jelly  类型 消耗品 稀有度 常见 基础价值  200  DATA 产品
+碳晶体 Carbon Crystal  类型 高浓缩产物 稀有度 稀有 基础价值  3600  DATA 产品
+蛋白珍珠 Albumen Pearl  类型 交易商品 稀有度 稀有 基础价值  9500  DATA 产品
+原型煎蛋卷 Proto-Omelette  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+玻璃谷粒 Glass Grains  类型 食用产品 稀有度 常见 基础价值  300  DATA 产品
+新星残留物 Novae Reclaiment  类型 阿特拉斯之种 稀有度 稀有 基础价值  1000  DATA 产品
+发光的馅饼 Glowing Pie  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+毒液海胆 Venom Urchin  类型 农作物 稀有度 稀有 基础价值  3  DATA 产品
+大容量向量压缩器  类型 贸易限定商品 稀有度 常见 基础价值  50000  DATA 产品
+低温舱 Cryogenic Chamber  类型 先进铸造物 稀有度 稀有 基础价值  3800000  DATA 产品
+蜂蜜甜甜圈 Honey Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+不稳定注射器 Instability Injector  类型 贸易限定商品 稀有度 常见 基础价值  15000  DATA 产品
+原型奶油 Proto-Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+食管奇味 Esophageal Surprise  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+半导体 Semiconductor  类型 气体铸造物 稀有度 稀有 基础价值  320000  DATA 产品
+离子电容器 Ion Capacitor  类型 贸易限定商品 稀有度 常见 基础价值  15000  DATA 产品
+异常的果酱 Anomalous Jam  稀有度 常见 基础价值  800  DATA 产品
+核融起爆机 Fusion Ignitor  类型 高精制技术产物 稀有度 稀有 基础价值  15600000  DATA 产品
+伽马草 Gamma Weed  类型 农作物 稀有度 稀有 基础价值  3  DATA 产品
+果味冰淇淋 Fruity Ice Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+不稳定的凝胶 Unstable Gel  类型 高级农产品 稀有度 稀有 基础价值  50000  DATA 产品
+谜肉馅饼 Mystery Meat Pie  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+脆焦糖 Crunchy Caramel  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+尘土 Dirt  类型 贸易限定商品 稀有度 常见 基础价值  1000  DATA 产品
+肮脏青铜 Dirty Bronze  类型 合金 稀有度 稀有 基础价值  25000  DATA 产品
+蛋白质甜甜圈 Proteinous Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+阿洛姆 Aronium  类型 合金 稀有度 稀有 基础价值  25000  DATA 产品
+焦糖馅饼 Caramel Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+工厂超控单位 Factory Override Unit  稀有度 稀有 基础价值  50000  DATA 产品
+便携式反应器 Portable Reactor  类型 先进铸造物 稀有度 稀有 基础价值  4200000  DATA 产品
+寄生物煎蛋卷 Parasitic Omelette  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+加工糖 Processed Sugar  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+离子电池 Ion Battery  类型 消耗品 稀有度 罕见 基础价值  200  DATA 产品
+心智控制设备 Mind Control Device  类型 远征模块 稀有度 稀有 基础价值  75000  DATA 产品
+催眠之眼 Hypnotic Eye  稀有度 稀有 基础价值  60000  DATA 产品
+肉翅 Meaty Wings  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+玻璃 Glass  类型 高级农产品 稀有度 稀有 基础价值  200  DATA 产品
+六核 Hex Core  类型 特殊物件 稀有度 稀有 基础价值  16  DATA 产品
+面团 Dough  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+布兰尼冰淇淋 Briney Rime  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+猫科肝 Feline Liver  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+果酱甜甜圈 Jam Doughnut  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+肉块 Meaty Chunks  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+中子显微镜 Neutron Microscope  类型 贸易限定商品 稀有度 常见 基础价值  6000  DATA 产品
+超导体 Superconductor  类型 气体铸造物 稀有度 稀有 基础价值  1500000  DATA 产品
+镍锰金 Magno-Gold  类型 合金 稀有度 稀有 基础价值  25000  DATA 产品
+精制面粉 Refined Flour  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+高纤维馅饼 High-Fibre Pie  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+萨克毒液 Sac Venom  类型 交易商品 稀有度 稀有 基础价值  12300  DATA 产品
+蜂蜜馅饼 Honey Tart  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+肉薄片 Meat Flakes  稀有度 常见 基础价值  300  DATA 产品
+沸腾蛋糕 Ever-Boiling Cake  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+老旧电路板 Decommissioned Circuit Board  类型 贸易限定商品 稀有度 常见 基础价值  1000  DATA 产品
+列米姆 Lemmium  类型 合金 稀有度 稀有 基础价值  25000  DATA 产品
+暗物质 Dark Matter  类型 阿特拉斯之种 稀有度 稀有 基础价值  1000  DATA 产品
+不粘活塞  类型 贸易限定商品 稀有度 常见 基础价值  6000  DATA 产品
+有机催化剂 Organic Catalyst  类型 气体铸造物 稀有度 稀有 基础价值  320000  DATA 产品
+芝士蔬菜馅饼 Cheesy Vegetable Pie  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+清蒸蔬菜 Steamed Vegetables  类型 食用产品 稀有度 常见 基础价值  300  DATA 产品
+再结晶弧形水晶 Re-latticed Arc Crystal  类型 贸易限定商品 稀有度 常见 基础价值  50000  DATA 产品
+科尔瓦克斯集会方型箱 Korvax Convergence Cube  类型 交易商品 稀有度 常见 基础价值  13063  DATA 产品
+腐藤根 Mordite Root  类型 农作物 稀有度 稀有 基础价值  3  DATA 产品
+已回收的数据 Salvaged Data  类型 数据模块 稀有度 稀有 基础价值  50000  DATA 产品
+仙人掌果冻 Cactus Jelly  稀有度 常见 基础价值  800  DATA 产品
+超导纤维 Superconducting Fibre  类型 贸易限定商品 稀有度 常见 基础价值  50000  DATA 产品
+可怕的糊糊 Horrifying Mush  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+美味炖蔬菜 Delicious Vegetable Stew  稀有度 常见 基础价值  800  DATA 产品
+氮盐 Nitrogen Salt  类型 增强型气体产品 稀有度 稀有 基础价值  50000  DATA 产品
+曲速电池 Warp Cell  类型 消耗品 稀有度 稀有 基础价值  46750  DATA 产品
+永久冰淇淋 Perpetual Ice Cream  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+巧克力蛋糕 Chocolate Cake  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+惊悚痒痒蜂蜜海绵蛋糕 Itching, Creeping Honey Sponge  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+离子球体  类型 贸易限定商品 稀有度 常见 基础价值  30000  DATA 产品
+蜂蜜原型黄油 Honied Proto-Butter  类型 食用产品 稀有度 常见 基础价值  800  DATA 产品
+破译的用户资料  类型 贸易限定商品 稀有度 常见 基础价值  1000  DATA 产品
+
+货船 曲速反应器（西格玛型） Freighter Warp Reactor Sigma  类型 货船技术 设计图 售价  300 基础种类 升级技术  DATA 技术
+曲速防护（陶型） Warp Shielding Tau  类型 货船技术 设计图 售价  400 基础种类 升级技术  DATA 技术
+隔热层 Thermic Layer  类型 套装技术 设计图 售价  160 基础种类 升级技术  DATA 技术
+曝气膜 Aeration Membrane  基础价值  1 建筑场地 数量上限  DATA 技术
+阿耳特弥斯翻译器 Artemis' Translator  类型 套装技术 设计图 售价  90 基础种类 升级技术  DATA 技术
+相位光束 Phase Beam  类型 飞船技术 设计图 售价  150 基础种类 核心技术  DATA 技术
+优质翻译器 Superior Translator  类型 套装技术 设计图 售价  310 基础种类 升级技术  DATA 技术
+等离子发射器升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 多用途工具技术 基础种类 升级技术  DATA 技术
+强化艇开采激光升级（西格玛型） Exocraft Mining Laser Upgrade Sigma  类型 强化艇技术 基础种类 升级技术  DATA 技术
+货船 曲速反应器（西塔型） Freighter Warp Reactor Theta  类型 货船技术 设计图 售价  800 基础种类 升级技术  DATA 技术
+防护手套 Haz-Mat Gauntlet  类型 套装技术 设计图 售价  80 基础种类 核心技术  DATA 技术
+强化艇信号推进器 Exocraft Signal Booster  类型 强化艇技术 基础种类 核心技术  DATA 技术
+高效推进器 Efficient Thrusters  类型 飞船技术 设计图 售价  120 基础种类 升级技术  DATA 技术
+回旋加速升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 飞船技术 基础种类 升级技术  DATA 技术
+战斗瞄准镜 Combat Scope  类型 多用途工具技术 设计图 售价  80 基础种类 核心技术  DATA 技术
+大鹦鹉螺大炮升级技术 Upgrade Module 类型 潜水艇技术 基础种类 升级技术  DATA 技术
+渗压发电机 Osmotic Generator  类型 潜水艇技术 基础种类 升级技术  DATA 技术
+控制推进悬挂 Grip Boost Suspension  类型 强化艇技术 基础种类 升级技术  DATA 技术
+铟驱动器 Indium Drive  类型 飞船技术 设计图 售价  200 基础种类 升级技术  DATA 技术
+地形操纵器 Terrain Manipulator  类型 多用途工具技术 设计图 售价  50 基础种类 核心技术  DATA 技术
+水下防护升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 套装技术 基础种类 核心技术  DATA 技术
+辐射防护升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 套装技术 基础种类 核心技术  DATA 技术
+发射系统充能器 Launch System Recharger  类型 飞船技术 设计图 售价  460 基础种类 升级技术  DATA 技术
+艾梅里尔驱动器 Emeril Drive  类型 飞船技术 设计图 售价  120 基础种类 升级技术  DATA 技术
+高级滑动悬挂 Hi-Slide Suspension  类型 强化艇技术 基础种类 升级技术  DATA 技术
+光电核心 Photonix Core  类型 飞船技术 基础种类 升级技术  DATA 技术
+护盾升级技术 Upgrade Module 类型 套装技术 基础种类 升级技术  DATA 技术
+特提斯光束 Tethys Beam  类型 潜水艇技术 基础种类 核心技术  DATA 技术
+强化艇悬挂大炮升级技术 Upgrade Module 类型 强化艇技术 基础种类 升级技术  DATA 技术
+神经刺激器 Neural Stimulator  类型 套装技术 设计图 售价  90 基础种类 升级技术  DATA 技术
+扩充子弹 Amplified Cartridges  类型 多用途工具技术 设计图 售价  180 基础种类 升级技术  DATA 技术
+回旋加速弩炮 Cyclotron Ballista  类型 飞船技术 设计图 售价  150 基础种类 核心技术  DATA 技术
+等离子发射器 Plasma Launcher  类型 多用途工具技术 设计图 售价  150 基础种类 核心技术  DATA 技术
+曲速防护（西塔型） Warp Shielding Theta  类型 货船技术 设计图 售价  800 基础种类 升级技术  DATA 技术
+正电子升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 飞船技术 基础种类 升级技术  DATA 技术
+火焰标枪升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 多用途工具技术 基础种类 升级技术  DATA 技术
+货船 曲速反应器（陶型） Freighter Warp Reactor Tau  类型 货船技术 设计图 售价  400 基础种类 升级技术  DATA 技术
+脉冲喷射器 Pulse Spitter  类型 多用途工具技术 设计图 售价  250 基础种类 核心技术  DATA 技术
+正电子冲击波 Positron Ejector  类型 飞船技术 设计图 售价  150 基础种类 核心技术  DATA 技术
+高级开采激光 Advanced Mining Laser  类型 多用途工具技术 设计图 售价  75 基础种类 升级技术  DATA 技术
+火箭发射器 Rocket Launcher  类型 飞船技术 设计图 售价  100 基础种类 核心技术  DATA 技术
+过时的技术 Obsolete Technology  类型 套装技术 基础种类 核心技术  DATA 技术
+高级翻译器 Advanced Translator  类型 套装技术 设计图 售价  580 基础种类 升级技术  DATA 技术
+超光速推进 Hyperdrive  类型 飞船技术 基础种类 核心技术  DATA 技术
+火箭靴 Rocket Boots  类型 套装技术 设计图 售价  200 基础种类 升级技术  DATA 技术
+脉冲驱动器 Pulse Engine  类型 飞船技术 基础种类 核心技术  DATA 技术
+飞船护罩升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 飞船技术 基础种类 升级技术  DATA 技术
+大鹦鹉螺大炮 Nautilon Cannon  类型 潜水艇技术 基础种类 核心技术  DATA 技术
+离子闪电发射器 Boltcaster  类型 多用途工具技术 基础种类 核心技术  DATA 技术
+光学钻头 Optical Drill  类型 多用途工具技术 设计图 售价  460 基础种类 升级技术  DATA 技术
+傅立叶解限器 Fourier De-Limiter  类型 飞船技术 设计图 售价  120 基础种类 升级技术  DATA 技术
+火焰标枪 Blaze Javelin  类型 多用途工具技术 设计图 售价  250 基础种类 核心技术  DATA 技术
+运动系统升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 套装技术 基础种类 升级技术  DATA 技术
+强化艇加速模块 Exocraft Acceleration Module  类型 强化艇技术 基础种类 核心技术  DATA 技术
+超光速推进器升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 飞船技术 基础种类 升级技术  DATA 技术
+相位光束升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 飞船技术 基础种类 升级技术  DATA 技术
+冲突扫描仪 Conflict Scanner  类型 飞船技术 设计图 售价  150 基础种类 核心技术  DATA 技术
+简易翻译器 Simple Translator  类型 套装技术 设计图 售价  90 基础种类 升级技术  DATA 技术
+危险防护 Hazard Protection  类型 套装技术 基础种类 核心技术  DATA 技术
+漂移悬挂 Drift Suspension  类型 强化艇技术 基础种类 升级技术  DATA 技术
+发射推进器 Launch Thruster  类型 飞船技术 基础种类 核心技术  DATA 技术
+开采光束 Mining Beam  类型 多用途工具技术 设计图 售价  1 基础种类 核心技术  DATA 技术
+传送接收器 Teleport Receiver  类型 飞船技术 设计图 售价  150 基础种类 核心技术  DATA 技术
+炮弹上油器 Shell Greaser  类型 多用途工具技术 设计图 售价  180 基础种类 升级技术  DATA 技术
+聚变发动机 Fusion Engine  类型 强化艇技术 基础种类 核心技术  DATA 技术
+非线性光学 Nonlinear Optics  类型 飞船技术 设计图 售价  120 基础种类 升级技术  DATA 技术
+偏导护盾 Deflector Shield  类型 飞船技术 基础种类 核心技术  DATA 技术
+光束冷却系统（西格玛型） Plasma Resonator  类型 多用途工具技术 基础种类 升级技术  DATA 技术
+地质大炮升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 多用途工具技术 基础种类 升级技术  DATA 技术
+辐射偏导器 Radiation Deflector  类型 套装技术 设计图 售价  160 基础种类 升级技术  DATA 技术
+镉驱动器 Cadmium Drive  类型 飞船技术 设计图 售价  80 基础种类 升级技术  DATA 技术
+毒性抑制器 Toxic Suppressor  类型 套装技术 设计图 售价  160 基础种类 升级技术  DATA 技术
+烧蚀装甲 Ablative Armour  类型 飞船技术 设计图 售价  85 基础种类 升级技术  DATA 技术
+聚变发动机升级技术 Upgrade Module 类型 强化艇技术 基础种类 升级技术  DATA 技术
+低温防护升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 套装技术 基础种类 核心技术  DATA 技术
+纪念物 Remembrance  类型 套装技术 基础种类 核心技术  DATA 技术
+氧气循环器 Oxygen Recycler  类型 套装技术 设计图 售价  120 基础种类 升级技术  DATA 技术
+分析面甲 Analysis Visor  类型 多用途工具技术 基础种类 核心技术  DATA 技术
+私人力场 Personal Forcefield  类型 多用途工具技术 设计图 售价  80 基础种类 核心技术  DATA 技术
+扫描仪升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 多用途工具技术 基础种类 升级技术  DATA 技术
+戴森泵 Dyson Pump  类型 飞船技术 设计图 售价  120 基础种类 升级技术  DATA 技术
+开采光束升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 多用途工具技术 基础种类 升级技术  DATA 技术
+散射爆破器升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 多用途工具技术 基础种类 升级技术  DATA 技术
+热能防护升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 套装技术 基础种类 核心技术  DATA 技术
+高功率声纳 High-Power Sonar  类型 潜水艇技术 基础种类 核心技术  DATA 技术
+光子大炮升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 飞船技术 基础种类 升级技术  DATA 技术
+经济扫描仪 Economy Scanner  类型 飞船技术 设计图 售价  150 基础种类 核心技术  DATA 技术
+脉冲喷射器升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 多用途工具技术 基础种类 升级技术  DATA 技术
+氧气变线器 Oxygen Rerouter  类型 套装技术 设计图 售价  240 基础种类 升级技术  DATA 技术
+喷气背包 Jetpack  类型 套装技术 基础种类 核心技术  DATA 技术
+货船 超光速推进 Freighter Hyperdrive  类型 货船技术 基础种类 核心技术  DATA 技术
+波形循环器 Waveform Recycler  类型 多用途工具技术 设计图 售价  120 基础种类 升级技术  DATA 技术
+冷却网格 Coolant Network  类型 套装技术 设计图 售价  160 基础种类 升级技术  DATA 技术
+强化艇信号推进器升级（陶型） Exocraft Signal Booster Upgrade Tau  类型 强化艇技术 基础种类 升级技术  DATA 技术
+强化艇加速模块升级技术 Upgrade Module 类型 强化艇技术 基础种类 升级技术  DATA 技术
+星种 Star Seed  类型 套装技术 基础种类 核心技术  DATA 技术
+强化艇信号推进器升级（西格玛型） Exocraft Signal Booster Upgrade Sigma  类型 强化艇技术 基础种类 升级技术  DATA 技术
+洪堡驱动器升级技术 Upgrade Module 类型 潜水艇技术 基础种类 升级技术  DATA 技术
+离子闪电发射器升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 多用途工具技术 基础种类 升级技术  DATA 技术
+维生系统升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 套装技术 基础种类 升级技术  DATA 技术
+红外切割机升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 飞船技术 基础种类 升级技术  DATA 技术
+毒性防护升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 套装技术 基础种类 核心技术  DATA 技术
+光子大炮 Photon Cannon  类型 飞船技术 基础种类 核心技术  DATA 技术
+曲速防护（西格玛型） Warp Shielding Sigma  类型 货船技术 设计图 售价  300 基础种类 升级技术  DATA 技术
+碎片增压器 Fragment Supercharger  类型 飞船技术 设计图 售价  120 基础种类 升级技术  DATA 技术
+质量加速器 Mass Accelerator  类型 多用途工具技术 设计图 售价  180 基础种类 升级技术  DATA 技术
+散射爆破器 Scatter Blaster  类型 多用途工具技术 设计图 售价  250 基础种类 核心技术  DATA 技术
+离子闪电发射器 SM Boltcaster SM  类型 多用途工具技术 基础种类 升级技术  DATA 技术
+扫描仪 Scanner  类型 多用途工具技术 基础种类 核心技术  DATA 技术
+大型火箭管 Large Rocket Tubes  类型 飞船技术 设计图 售价  50 基础种类 升级技术  DATA 技术
+红外切割加速器 Infra-Knife Accelerator  类型 飞船技术 设计图 售价  150 基础种类 核心技术  DATA 技术
+栅格护盾 Shield Lattice  类型 套装技术 设计图 售价  120 基础种类 升级技术  DATA 技术
+强化艇开采激光升级技术 Upgrade Module 类型 强化艇技术 基础种类 升级技术  DATA 技术
+枪管电离器 Barrel Ioniser  类型 多用途工具技术 设计图 售价  90 基础种类 升级技术  DATA 技术
+洪堡驱动器 Humboldt Drive  类型 潜水艇技术 基础种类 核心技术  DATA 技术
+生命维持 Life Support  类型 套装技术 基础种类 核心技术  DATA 技术
+脉冲引擎升级技术 Upgrade Module   Using template from Html:CycleClassTagStyle  /* CSS Minified */.class-cycle-1{animation:classcycle1 10s linear infinite}@keyframes classcycle1{0%,25%,100%{opacity:0}5%,20%{opacity:1}}.class-cycle-2{animation:classcycle2 10s linear infinite}@keyframes classcycle2{0%,25%,50%,100%{opacity:0}30%,45%{opacity:1}}.class-cycle-3{animation:classcycle3 10s linear infinite}@keyframes classcycle3{0%,50%,75%,100%{opacity:0}55%,70%{opacity:1}}.class-cycle-4{animation:classcycle4 10s linear infinite}@keyframes classcycle4{0%,75%,100%{opacity:0}80%,95%{opacity:1}}  Code above is based on Html:CycleClassTagStyle  类型 飞船技术 基础种类 升级技术  DATA 技术
+地质大炮 Geology Cannon  类型 多用途工具技术 设计图 售价  150 基础种类 核心技术  DATA 技术
+强化艇悬挂大炮 Exocraft Mounted Cannon  类型 强化艇技术 基础种类 核心技术  DATA 技术
+高效喷水器 Efficient Water Jets  类型 套装技术 设计图 售价  350 基础种类 升级技术  DATA 技术
+强化艇开采激光 Exocraft Mining Laser  类型 强化艇技术 基础种类 核心技术  DATA 技术
+调查设备 Survey Device  类型 多用途工具技术 设计图 售价  320 基础种类 升级技术  DATA 技术
+建造终端 Construction Terminal  类型 专家终端 稀有度 常见 基础价值  1 建筑容量 占用值 3260 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 1 同一 货船基地 内 1 同一 星球 上 ∞  DATA 建筑配件
+信号塔模块 Tower Module  类型 一般建筑构件 稀有度 常见 基础价值  2 建筑场地 数量上限  DATA 建筑配件
+方型箱 Cube  类型 矩形屋构件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木地板 Wood Floor Panel  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1230 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+侧板 Side Panel  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 285 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+泡状团 Bubble Cluster  类型 一般建筑构件 稀有度 常见 基础价值  1000 建筑场地 数量上限  DATA 建筑配件
+保健站 Health Station  类型 功能性设备 稀有度 常见 基础价值  5 建筑容量 占用值 480 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+示波器 Oscilloscope  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 400 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+小型木墙 Small Wooden Wall  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 2000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+金属内屋顶檐角 Metal Inner Roof Corner  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+盆栽植物 Potted Plant  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 300 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+金属屋顶 Metal Roof  类型 金属建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 900 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+倾斜混凝土板 Sloping Concrete Panel  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 601 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+L 形走廊 L-Shaped Corridor  类型 一般建筑构件 稀有度 常见 基础价值  5 建筑容量 占用值 1690 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+信息模块 Message Module  类型 功能性设备 稀有度 常见 基础价值  1 建筑容量 占用值 720 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 5  DATA 建筑配件
+长沙发 Swept Sofa  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+混凝土正面墙 Concrete Frontage  类型 混凝土建筑构件 稀有度 常见 基础价值  3 建筑容量 占用值 986 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+工作台 Worktop  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 400 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+顶灯 Ceiling Light  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 800 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+球根树 Globe Tree  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+阿耳特弥斯贴花 Artemis Decal  类型 一般建筑构件 稀有度 常见 基础价值  400 建筑场地 数量上限  DATA 建筑配件
+农业终端 Agricultural Terminal  类型 专家终端 稀有度 常见 基础价值  1 建筑容量 占用值 695 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 1 同一 货船基地 内 1 同一 星球 上 ∞  DATA 建筑配件
+直线形走廊 Straight Corridor  类型 一般建筑构件 稀有度 常见 基础价值  5 建筑容量 占用值 1690 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+常青树 Evergreen Tree  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+科技终端 Science Terminal  类型 专家终端 稀有度 常见 基础价值  1 建筑容量 占用值 2050 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 1 同一 货船基地 内 1 同一 星球 上 ∞  DATA 建筑配件
+深水舱 Deepwater Chamber  类型 一般建筑构件 稀有度 常见 基础价值  6 建筑场地 数量上限  DATA 建筑配件
+金属地板 Metal Floor Panel  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 380 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+旗帜2 Flag 2  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 420 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+梯子 Ladder  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 570 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木坡道 Wooden Ramp  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 680 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木屋顶板 Wooden Roof Panel  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1050 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+金属门框 Metal Door Frame  类型 金属建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 550 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木制正面墙 Wooden Frontage  类型 木质建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 980 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+沙发 Sofa  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 246 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+地毯 Floor Mat  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 234 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+货船弧形走廊 Curved Freighter Corridor  类型 货船构件 稀有度 常见 基础价值  1 建筑容量 占用值 5000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+水密门 Watertight Door  类型 一般建筑构件 稀有度 常见 基础价值  2 建筑场地 数量上限  DATA 建筑配件
+机器同伴 Robotic Companion  类型 一般建筑构件 稀有度 常见 基础价值  800 建筑场地 数量上限  DATA 建筑配件
+供应管道 Supply Pipe  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+能量逆变器 Power Inverter  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+地基支柱四件套 Foundation Strut Quad  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+光裂隙 Light Fissure  类型 一般建筑构件 稀有度 常见 基础价值  1000 建筑场地 数量上限  DATA 建筑配件
+方形房间 Square Room  类型 一般建筑构件 稀有度 常见 基础价值  2 建筑场地 数量上限  DATA 建筑配件
+牲畜装置 Livestock Unit  稀有度 常见 基础价值  10 建筑场地 数量上限  DATA 建筑配件
+旗帜3 Flag 3  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 420 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+便携式精炼机 Portable Refiner  类型 功能性设备 稀有度 常见 基础价值  10 建筑容量 占用值 2000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木屋顶檐角 Wooden Roof Corner  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 2130 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+圆柱形房间 Cylindrical Room  类型 一般建筑构件 稀有度 常见 基础价值  3 建筑容量 占用值 6950 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+漫游者泊湾 Roamer Geobay  类型 强化艇泊湾 稀有度 常见 基础价值  10 建筑容量 占用值 2200 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 1 同一 货船基地 内 ∞ 同一 星球 上 5  DATA 建筑配件
+木质内屋顶檐角 Wooden Inner Roof Corner  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+机械臂 Robotic Arm  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 240 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+反物质反应堆 Antimatter Reactor  类型 一般建筑构件 稀有度 常见 基础价值  20 建筑场地 数量上限  DATA 建筑配件
+大型木质电动门 Large Wooden Power Door  类型 木质建筑构件 稀有度 常见 基础价值  2 建筑场地 数量上限  DATA 建筑配件
+电缆舱 Cable Pod  类型 一般建筑构件 稀有度 常见 基础价值  1000 建筑场地 数量上限  DATA 建筑配件
+矮木墙 Short Wooden Wall  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1800 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+大型玻璃板 Large Glass Panel  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+朝圣者泊湾 Pilgrim Geobay  类型 强化艇泊湾 稀有度 常见 基础价值  10 建筑场地 数量上限  DATA 建筑配件
+矩形屋地基支柱 Cuboid Room Foundation Strut  类型 矩形屋构件 稀有度 常见 基础价值  1 建筑容量 占用值 530 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+抽屉 Drawers  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+弧线矩形墙 Curved Cuboid Wall  类型 一般建筑构件 稀有度 常见 基础价值  3 建筑容量 占用值 3500 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+肉食灌木 Carnivorous Bush  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+生物育养箱 Terrarium  类型 一般建筑构件 稀有度 常见 基础价值  800 建筑场地 数量上限  DATA 建筑配件
+矿物提取器 Mineral Extractor  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+矩形室内墙 Cuboid Inner Wall  类型 矩形屋构件 稀有度 常见 基础价值  1 建筑容量 占用值 245 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+混凝土门廊 Concrete Doorway  类型 混凝土建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 734 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+大型水培盘 Large Hydroponic Tray  类型 功能性设备 稀有度 常见 基础价值  10 建筑容量 占用值 900 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+古怪玉米 Curious Corn  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+混凝土窗板 Concrete Window Panel  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 734 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+金属窗板 Metal Window Panel  类型 金属建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 1015 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+混凝土坡道 Concrete Ramp  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 2481 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+桌子 Table  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+藤壶 Barnacle  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+倾斜金属板 Sloping Metal Panel  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 490 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+基地打捞舱 Base Salvage Capsule  类型 功能性设备 稀有度 常见 基础价值  10 建筑容量 占用值 488 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 1 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+基础设施梯 Infrastructure Ladder  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 410 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木门廊 Wooden Doorway  类型 木质建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 1330 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+弯曲的桌子 Curved Desk  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 245 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+小型木门 Small Wooden Door  类型 木质建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 600 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+大型监控站 Large Monitor Station  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 565 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+货船内部墙 Internal Freighter Wall  类型 货船构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+大气收集器 Atmosphere Harvester  类型 功能性设备 稀有度 常见 基础价值  1 建筑容量 占用值 1800 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 3  DATA 建筑配件
+小型金属墙 Small Metal Wall  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 670 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+X 形走廊 X-Shaped Corridor  类型 一般建筑构件 稀有度 常见 基础价值  5 建筑容量 占用值 2950 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+方形深水舱 Square Deepwater Chamber  类型 一般建筑构件 稀有度 常见 基础价值  6 建筑场地 数量上限  DATA 建筑配件
+故障的分离器 Glitching Separator  类型 一般建筑构件 稀有度 常见 基础价值  1000 建筑场地 数量上限  DATA 建筑配件
+玻璃矩形屋 Glass Cuboid Room  类型 一般建筑构件 稀有度 常见 基础价值  5 建筑容量 占用值 3080 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+星港贴花 Galactic Hub Decal  类型 一般建筑构件 稀有度 常见 基础价值  400 建筑场地 数量上限  DATA 建筑配件
+邻近开关 Proximity Switch  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+小型木板 Small Wood Panel  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1325 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+混凝土半圆拱 Concrete Half Arch  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 670 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+壁旗1 Wall Flag 1  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+银河交易终端 Galactic Trade Terminal  类型 功能性设备 稀有度 常见 基础价值  10 建筑容量 占用值 528 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 10 同一 货船基地 内 10 同一 星球 上 ∞  DATA 建筑配件
+大型精炼机 Large Refiner  类型 功能性设备 稀有度 常见 基础价值  10 建筑容量 占用值 2000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木制半圆拱 Wooden Half Arch  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1360 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+壁旗2 Wall Flag 2  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+武器架 Weapon Rack  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 455 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+圆柱形房间框架 Cylindrical Room Frame  类型 一般建筑构件 稀有度 常见 基础价值  3 建筑容量 占用值 2100 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+金属门廊 Metal Doorway  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1370 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+电线 Electrical Wiring  类型 一般建筑构件 稀有度 常见 基础价值  0 建筑场地 数量上限  DATA 建筑配件
+金属半坡道 Metal Half Ramp  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1405 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+椅子 Chair  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 280 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+技术面板 Tech Panel  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 400 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+混凝土门框 Concrete Door Frame  类型 混凝土建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 700 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+矮金属墙 Short Metal Wall  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 615 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+存档点 Save Point  类型 功能性设备 稀有度 常见 基础价值  2 建筑容量 占用值 550 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+游牧民泊湾 Nomad Geobay  类型 强化艇泊湾 稀有度 常见 基础价值  10 建筑容量 占用值 2020 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 1 同一 货船基地 内 ∞ 同一 星球 上 5  DATA 建筑配件
+矩形屋地基支柱四件套 Cuboid Room Foundation Strut Quad  类型 矩形屋构件 稀有度 常见 基础价值  1 建筑容量 占用值 530 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+转角沙发 Corner Sofa  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 260 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+壁挂幕 Wall Screen  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 400 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+小箱子 Small Crate  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 396 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+小型混凝土板 Small Concrete Panel  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 450 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+货船存储单位 Freighter Storage Unit  类型 一般建筑构件 稀有度 常见 基础价值  5 建筑场地 数量上限  DATA 建筑配件
+集合点 Muster Point  类型 功能性设备 稀有度 常见 基础价值  10 建筑场地 数量上限  DATA 建筑配件
+基地传送模块 Base Teleport Module  类型 功能性设备 稀有度 常见 基础价值  2 建筑容量 占用值 1000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 1 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+室内楼梯 Interior Stairs  类型 矩形屋构件 稀有度 常见 基础价值  2 建筑容量 占用值 900 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+自主采矿机 Autonomous Mining Unit  类型 功能性设备 稀有度 常见 基础价值  1 建筑容量 占用值 1780 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+全息门 Holo-Door  类型 一般建筑构件 稀有度 常见 基础价值  8 建筑容量 占用值 800 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+旗帜1 Flag 1  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 420 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+果树 Fruit Tree  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+气体提取器 Gas Extractor  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+外观修改器 Appearance Modifier  类型 功能性设备 稀有度 常见 基础价值  10 建筑容量 占用值 2155 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 5  DATA 建筑配件
+氧气收集器 Oxygen Harvester  类型 功能性设备 稀有度 常见 基础价值  10 建筑容量 占用值 1000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+混凝土圆拱 Concrete Arch  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1110 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+矩形屋框架 Cuboid Room Frame  类型 矩形屋构件 稀有度 常见 基础价值  1 建筑容量 占用值 1000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+金属框玻璃板 Metal-Framed Glass Panel  类型 金属建筑构件 稀有度 常见 基础价值  3 建筑容量 占用值 680 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+烛台花 Candelabra Bloom  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+铺砌 Paving  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 287 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+床 Bed  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 240 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+更衣柜 Locker  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 247 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+补给仓库 Supply Depot  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+金属屋顶檐角 Metal Roof Corner  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 685 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+矮混凝土墙 Short Concrete Wall  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 490 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+建筑研究单位 Construction Research Unit  类型 功能性设备 稀有度 常见 基础价值  10 建筑容量 占用值 500 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+服务器 Server  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+存档信标 Save Beacon  类型 功能性设备 稀有度 常见 基础价值  1 建筑容量 占用值 640 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 5  DATA 建筑配件
+异象贴花 Anomaly Decal  类型 一般建筑构件 稀有度 常见 基础价值  400 建筑场地 数量上限  DATA 建筑配件
+平板 Flat Panel  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 300 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+架子面板 Shelf Panel  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 300 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+保罗贴花 Polo Decal  类型 一般建筑构件 稀有度 常见 基础价值  400 建筑场地 数量上限  DATA 建筑配件
+垂直玻璃隧道 Vertical Glass Tunnel  类型 一般建筑构件 稀有度 常见 基础价值  3 建筑场地 数量上限  DATA 建筑配件
+大型墙体 Large Wall  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 260 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+墙 Curved Wall  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 260 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+生物圆屋顶 Bio-Dome  类型 一般建筑构件 稀有度 常见 基础价值  10 建筑容量 占用值 3000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+植物隔离 Flora Containment  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 300 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+大型货船房间 Large Freighter Room  类型 货船构件 稀有度 常见 基础价值  1 建筑容量 占用值 4330 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+吊柜 Wall Unit  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 300 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+带混凝土框的玻璃板 Concrete-Framed Glass Panel  类型 混凝土建筑构件 稀有度 常见 基础价值  3 建筑容量 占用值 700 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+大型金属电动门 Large Metal Power Door  类型 木质建筑构件 稀有度 常见 基础价值  2 建筑场地 数量上限  DATA 建筑配件
+大型混凝土电动门 Large Concrete Power Door  类型 木质建筑构件 稀有度 常见 基础价值  2 建筑场地 数量上限  DATA 建筑配件
+卷曲珊瑚 Curly Coral  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+木屋顶 Wooden Roof  类型 木质建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 795 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+混凝土电动门 Concrete Power Door  类型 木质建筑构件 稀有度 常见 基础价值  2 建筑场地 数量上限  DATA 建筑配件
+降落场 Landing Pad  类型 功能性设备 稀有度 常见 基础价值  10 建筑容量 占用值 17858 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 9 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+混凝土屋顶檐角 Concrete Roof Corner  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 730 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+水生晶体 Aquatic Crystal  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+弧线矩形屋顶 Curved Cuboid Roof  类型 一般建筑构件 稀有度 常见 基础价值  3 建筑容量 占用值 2000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+球体 Sphere  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 245 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+纳达贴花 Nada Decal  类型 一般建筑构件 稀有度 常见 基础价值  400 建筑场地 数量上限  DATA 建筑配件
+货船连接点 Freighter Cross Junction  类型 货船构件 稀有度 常见 基础价值  1 建筑容量 占用值 5000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+大型楔形组件 Large Wedge  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 255 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+太阳能板 Solar Panel  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+金属墙 Metal Wall  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 855 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+舰队指挥室 Fleet Command Room  类型 货船构件 稀有度 常见 基础价值  10 建筑容量 占用值 3260 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+钙菇 Calcishroom  类型 一般建筑构件 稀有度 常见 基础价值  1000 建筑场地 数量上限  DATA 建筑配件
+立体方型箱 Solid Cube  类型 矩形屋构件 稀有度 常见 基础价值  1 建筑容量 占用值 1110 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+货船楼梯 Freighter Stairs  类型 货船构件 稀有度 常见 基础价值  1 建筑容量 占用值 2960 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木桶制造者 Barrel Fabricator  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 465 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+旗帜4 Flag 4  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 420 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+信号增强器 Signal Booster  类型 功能性设备 稀有度 常见 基础价值  1 建筑容量 占用值 1184 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+地面开关 Floor Switch  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+混凝土屋顶板 Concrete Roof Panel  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1060 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+电池 Battery  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+基地电脑 Base Computer  类型 功能性设备 稀有度 常见 基础价值  5 建筑容量 占用值 1480 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+八角柜 Octa-Cabinet  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 400 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+简易桌 Simple Desk  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+T 形玻璃隧道 T-Shaped Glass Tunnel  类型 一般建筑构件 稀有度 常见 基础价值  3 建筑场地 数量上限  DATA 建筑配件
+毛细管壳 Capilliary Shell  类型 一般建筑构件 稀有度 常见 基础价值  1000 建筑场地 数量上限  DATA 建筑配件
+矩形屋 Cuboid Room  类型 矩形屋构件 稀有度 常见 基础价值  2 建筑容量 占用值 2100 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+连接站 Linking Post  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 510 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+金属正面墙 Metal Frontage  类型 金属建筑构件 稀有度 常见 基础价值  3 建筑容量 占用值 1000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木制圆拱 Wooden Arch  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1780 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+板条箱制造者 Crate Fabricator  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 888 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+比赛障碍物 Race Obstacle  类型 竞赛设备 稀有度 常见 基础价值  10 建筑容量 占用值 500 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 50 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+入口坡道 Access Ramp  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 600 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+认可手势贴花 Hand of Approval Decal  类型 一般建筑构件 稀有度 常见 基础价值  400 建筑场地 数量上限  DATA 建筑配件
+传送线缆 Teleport Cable  类型 一般建筑构件 稀有度 常见 基础价值  0 建筑场地 数量上限  DATA 建筑配件
+贮藏箱 Storage Container  类型 功能性设备 稀有度 常见 基础价值  5 建筑容量 占用值 2000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 1 同一 货船基地 内 1 同一 星球 上 ∞  DATA 建筑配件
+矩形内门 Cuboid Inner Door  类型 矩形屋构件 稀有度 常见 基础价值  1 建筑容量 占用值 290 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+噪音盒 Noise Box  类型 一般建筑构件 稀有度 常见 基础价值  10 建筑场地 数量上限  DATA 建筑配件
+小型水族箱 Small Aquarium  类型 一般建筑构件 稀有度 常见 基础价值  800 建筑场地 数量上限  DATA 建筑配件
+顶板 Ceiling Panel  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 940 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+危险防护单元 Hazard Protection Unit  类型 功能性设备 稀有度 常见 基础价值  3 建筑容量 占用值 825 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+门 Door  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1226 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+窄混凝土墙 Thin Concrete Wall  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 452 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+壁旗3 Wall Flag 3  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+自动喂食器 Automated Feeder  稀有度 常见 基础价值  10 建筑场地 数量上限  DATA 建筑配件
+监控站 Monitor Station  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 670 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+烟花 Firework  类型 一般建筑构件 稀有度 常见 基础价值  50 建筑场地 数量上限  DATA 建筑配件
+球体创造器 Sphere Creator  类型 一般建筑构件 稀有度 常见 基础价值  10 建筑场地 数量上限  DATA 建筑配件
+木窗板 Wooden Window Panel  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 2200 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+橙色壁挂幕 Orange Wall Screen  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 500 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+混凝土内屋顶檐角 Concrete Inner Roof Corner  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+通讯站 Communications Station  类型 功能性设备 稀有度 常见 基础价值  1 建筑容量 占用值 600 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 1  DATA 建筑配件
+武器终端 Weapons Terminal  类型 专家终端 稀有度 常见 基础价值  1 建筑容量 占用值 2000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 1 同一 货船基地 内 1 同一 星球 上 ∞  DATA 建筑配件
+六角灌木 Hexplate Bush  类型 一般建筑构件 稀有度 常见 基础价值  1000 建筑场地 数量上限  DATA 建筑配件
+金属圆拱 Metal Arch  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1020 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+无名贴花 Null Decal  类型 一般建筑构件 稀有度 常见 基础价值  400 建筑场地 数量上限  DATA 建筑配件
+实验灯 Lab Lamp  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 452 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+窄金属墙 Thin Metal Wall  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 960 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+上锁的箱子 Locked Crate  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+观景球 Viewing Sphere  类型 一般建筑构件 稀有度 常见 基础价值  10 建筑容量 占用值 1390 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+罐架 Canister Rack  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+混凝土屋顶 Concrete Roof  类型 混凝土建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 800 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+顶部平台 Roof Platform  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1110 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+高柜 Tall Cabinet  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 300 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+立式种植器 Standing Planter  类型 功能性设备 稀有度 常见 基础价值  1 建筑容量 占用值 440 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+水培盘 Hydroponic Tray  类型 功能性设备 稀有度 常见 基础价值  3 建筑容量 占用值 730 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+生物全息图 Creature Hologram  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+中型精炼机 Medium Refiner  类型 功能性设备 稀有度 常见 基础价值  10 建筑容量 占用值 1912 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+小型混凝土门 Small Concrete Door  类型 混凝土建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 303 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+按钮 Button  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+小型金属板 Small Metal Panel  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1200 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+金属半圆拱 Metal Half Arch  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 900 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+小型楔形组件 Small Wedge  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 265 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+X 形玻璃隧道 X-Shaped Glass Tunnel  类型 一般建筑构件 稀有度 常见 基础价值  3 建筑场地 数量上限  DATA 建筑配件
+筒 Cylinder  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 245 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+自动开关 Auto Switch  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+L 形玻璃隧道 L-Shaped Glass Tunnel  类型 一般建筑构件 稀有度 常见 基础价值  3 建筑场地 数量上限  DATA 建筑配件
+置物板 Storage Panel  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 290 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木质电动门 Wooden Power Door  类型 木质建筑构件 稀有度 常见 基础价值  2 建筑场地 数量上限  DATA 建筑配件
+看样台 Light Table  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 320 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+玻璃顶走廊 Glass Roofed Corridor  类型 一般建筑构件 稀有度 常见 基础价值  5 建筑容量 占用值 2090 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+弧形走廊 Curved Corridor  类型 一般建筑构件 稀有度 常见 基础价值  3 建筑容量 占用值 1600 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+月池地板 Moon Pool Floor  类型 一般建筑构件 稀有度 常见 基础价值  10 建筑场地 数量上限  DATA 建筑配件
+生物燃料反应堆 Biofuel Reactor  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+强化艇终端 Exocraft Terminal  类型 专家终端 稀有度 常见 基础价值  1 建筑容量 占用值 1110 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 1 同一 货船基地 内 1 同一 星球 上 ∞  DATA 建筑配件
+阿波罗贴花 Apollo Decal  类型 一般建筑构件 稀有度 常见 基础价值  400 建筑场地 数量上限  DATA 建筑配件
+混凝土墙 Concrete Wall  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 700 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+混凝土半坡道 Concrete Half Ramp  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 800 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+卷帘门 Shutter Door  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 450 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+贴花 Decal  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 500 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 50 同一 货船基地 内 50 同一 星球 上 ∞  DATA 建筑配件
+电磁发电机 Electromagnetic Generator  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+纺锤树 Spindle Tree  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+壁扇 Wall Fan  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 270 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+地基 Foundation  类型 一般建筑构件 稀有度 常见 基础价值  3 建筑容量 占用值 1200 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+绿色壁挂幕 Green Wall Screen  类型 装饰物件 稀有度 常见 基础价值  1 建筑容量 占用值 490 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+窗户 Window  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 532 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+灯 Light  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 300 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+窄木墙 Thin Wooden Wall  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1255 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+响骨 Rattle Spine  类型 一般建筑构件 稀有度 常见 基础价值  1000 建筑场地 数量上限  DATA 建筑配件
+墙壁开关 Wall Switch  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+巨人泊湾 Colossus Geobay  类型 强化艇泊湾 稀有度 常见 基础价值  10 建筑容量 占用值 2150 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 1 同一 货船基地 内 ∞ 同一 星球 上 5  DATA 建筑配件
+矩形屋顶罩 Cuboid Roof Cap  类型 矩形屋构件 稀有度 常见 基础价值  2 建筑容量 占用值 600 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+矩形屋地板 Cuboid Room Flooring  类型 矩形屋构件 稀有度 常见 基础价值  1 建筑容量 占用值 400 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+比赛增力器 Race Force Amplifier  类型 竞赛设备 稀有度 常见 基础价值  10 建筑容量 占用值 370 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 50 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木门框 Wooden Door Frame  类型 木质建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 1200 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木墙 Wooden Wall  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 920 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+彩灯 Coloured Light  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+弧形管道 Curved Pipe  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 250 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+木制半坡道 Wooden Half Ramp  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 1110 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+地基支柱 Foundation Strut  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+金字塔 Pyramid  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 255 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+金属坡道 Metal Ramp  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 775 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+僵化的恒星 Ossified Star  类型 一般建筑构件 稀有度 常见 基础价值  1000 建筑场地 数量上限  DATA 建筑配件
+混凝土地板 Concrete Floor Panel  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 360 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+货船走廊 Freighter Corridor  类型 货船构件 稀有度 常见 基础价值  1 建筑容量 占用值 5000 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+管道 Pipe  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 255 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+铽丛 Terbium Growth  类型 一般建筑构件 稀有度 常见 基础价值  1000 建筑场地 数量上限  DATA 建筑配件
+矩形屋梯子 Cuboid Room Ladder  类型 矩形屋构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+金属屋顶板 Metal Roof Panel  类型 金属建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 490 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+大鹦鹉螺舱 Nautilon Chamber  类型 强化艇泊湾 稀有度 常见 基础价值  10 建筑场地 数量上限  DATA 建筑配件
+海洋藏身处 Marine Shelter  类型 一般建筑构件 稀有度 常见 基础价值  10 建筑场地 数量上限  DATA 建筑配件
+小型金属门 Small Metal Door  类型 金属建筑构件 稀有度 常见 基础价值  2 建筑容量 占用值 310 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+金属电动门 Metal Power Door  类型 木质建筑构件 稀有度 常见 基础价值  2 建筑场地 数量上限  DATA 建筑配件
+木框玻璃板 Wood-Framed Glass Panel  类型 木质建筑构件 稀有度 常见 基础价值  3 建筑容量 占用值 660 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+矮棕榈树 Dwarf Palm  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+小型混凝土墙 Small Concrete Wall  类型 混凝土建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 700 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+倾斜木板 Sloping Wood Panel  类型 木质建筑构件 稀有度 常见 基础价值  1 建筑容量 占用值 555 可携带  建筑场地 星球基地  货船基地  野外  水下  数量上限 同一 星球基地 内 ∞ 同一 货船基地 内 ∞ 同一 星球 上 ∞  DATA 建筑配件
+帆棕榈树 Sail Palm  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+电立方 Electric Cube  类型 一般建筑构件 稀有度 常见 基础价值  1000 建筑场地 数量上限  DATA 建筑配件
+短程传送器 Short-Range Teleporter  类型 一般建筑构件 稀有度 常见 基础价值  1 建筑场地 数量上限  DATA 建筑配件
+岩石花园 Rock Garden  类型 一般建筑构件 稀有度 常见 基础价值  500 建筑场地 数量上限  DATA 建筑配件
+光子大炮模块（C） Photon Cannon Module (C)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+运动系统模块（A） Movement Module (A)  类型 套装升级模块 稀有度 稀有 安装后属性数量 3 ~ 4 基础价值  300  DATA 升级模块
+红外切割机模块（A） Infra-Knife Module (A)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 3 基础价值  300  DATA 升级模块
+相位光束模块（C） Phase Beam Module (C)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+护盾模块（S） Shield Module (S)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  480  DATA 升级模块
+散射爆破器模块（A） Scatter Blaster Module (A)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 3 ~ 4 基础价值  300  DATA 升级模块
+超光速推进器模块（A） Hyperdrive Module (A)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 2 基础价值  300  DATA 升级模块
+脉冲喷射器模块（C） Pulse Spitter Module (C)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+火焰标枪模块（C） Blaze Javelin Module (C)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 基础价值  60  DATA 升级模块
+水下防护模块（A） Underwater Protection Module (A)  类型 套装升级模块 稀有度 稀有 安装后属性数量 1 基础价值  300  DATA 升级模块
+运动系统模块（C） Movement Module (C)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  60  DATA 升级模块
+护盾模块（C） Shield Module (C)  类型 套装升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+地质大炮模块（C） Geology Cannon Module (C)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 基础价值  60  DATA 升级模块
+扫描仪模块（S） Scanner Module (S)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 3 基础价值  480  DATA 升级模块
+热能防护模块（S） Thermal Protection Module (S)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  480  DATA 升级模块
+散射爆破器模块（B） Scatter Blaster Module (B)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  140  DATA 升级模块
+相位光束模块（B） Phase Beam Module (B)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  140  DATA 升级模块
+扫描仪模块（A） Scanner Module (A)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  300  DATA 升级模块
+火焰标枪模块（S） Blaze Javelin Module (S)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 2 基础价值  480  DATA 升级模块
+辐射防护模块（S） Radiation Protection Module (S)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  480  DATA 升级模块
+相位光束模块（S） Phase Beam Module (S)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 2 基础价值  480  DATA 升级模块
+开采光束模块（A） Mining Beam Module (A)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 3 ~ 4 基础价值  300  DATA 升级模块
+维生系统模块（A） Life Support Module (A)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  300  DATA 升级模块
+运动系统模块（S） Movement Module (S)  类型 套装升级模块 稀有度 稀有 安装后属性数量 4 基础价值  480  DATA 升级模块
+地质大炮模块（A） Geology Cannon Module (A)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  300  DATA 升级模块
+火焰标枪模块（B） Blaze Javelin Module (B)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  140  DATA 升级模块
+护盾模块（B） Shield Module (B)  类型 套装升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  140  DATA 升级模块
+飞船护罩模块（C） Starship Shield Module (C)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 基础价值  60  DATA 升级模块
+毒性防护模块（S） Toxic Protection Module (S)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  480  DATA 升级模块
+超光速推进器模块（S） Hyperdrive Module (S)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 2 基础价值  480  DATA 升级模块
+水下防护模块（B） Underwater Protection Module (B)  类型 套装升级模块 稀有度 稀有 安装后属性数量 1 基础价值  140  DATA 升级模块
+离子闪电发射器模块（B） Boltcaster Module (B)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  140  DATA 升级模块
+等离子发射器模块（C） Plasma Launcher Module (C)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+光子大炮模块（A） Photon Cannon Module (A)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  300  DATA 升级模块
+光子大炮模块（B） Photon Cannon Module (B)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  140  DATA 升级模块
+回旋加速模块（S） Cyclotron Module (S)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 3 基础价值  480  DATA 升级模块
+正电子模块（S） Positron Module (S)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 3 基础价值  480  DATA 升级模块
+开采光束模块（B） Mining Beam Module (B)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  140  DATA 升级模块
+地质大炮模块（B） Geology Cannon Module (B)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  140  DATA 升级模块
+红外切割机模块（S） Infra-Knife Module (S)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 3 基础价值  480  DATA 升级模块
+脉冲喷射器模块（S） Pulse Spitter Module (S)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 4 基础价值  480  DATA 升级模块
+离子闪电发射器模块（C） Boltcaster Module (C)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+低温防护模块（B） Thermal Protection Module (B)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  140  DATA 升级模块
+脉冲引擎模块（B） Pulse Engine Module (B)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 2 基础价值  140  DATA 升级模块
+运动系统模块（B） Movement Module (B)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 ~ 4 基础价值  140  DATA 升级模块
+辐射防护模块（B） Radiation Protection Module (B)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  140  DATA 升级模块
+低温防护模块（A） Thermal Protection Module (A)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  300  DATA 升级模块
+脉冲引擎模块（A） Pulse Engine Module (A)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  300  DATA 升级模块
+散射爆破器模块（S） Scatter Blaster Module (S)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 4 基础价值  480  DATA 升级模块
+红外切割机模块（B） Infra-Knife Module (B)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  140  DATA 升级模块
+红外切割机模块（C） Infra-Knife Module (C)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+等离子发射器模块（S） Plasma Launcher Module (S)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 3 基础价值  480  DATA 升级模块
+飞船护罩模块（B） Starship Shield Module (B)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 基础价值  140  DATA 升级模块
+离子闪电发射器模块（S） Boltcaster Module (S)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 4 基础价值  480  DATA 升级模块
+脉冲喷射器模块（A） Pulse Spitter Module (A)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 3 ~ 4 基础价值  300  DATA 升级模块
+飞船护罩模块（A） Starship Shield Module (A)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 基础价值  300  DATA 升级模块
+正电子模块（B） Positron Module (B)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  140  DATA 升级模块
+开采光束模块（C） Mining Beam Module (C)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+地质大炮模块（S） Geology Cannon Module (S)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 2 基础价值  480  DATA 升级模块
+维生系统模块（B） Life Support Module (B)  类型 套装升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  140  DATA 升级模块
+相位光束模块（A） Phase Beam Module (A)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 2 基础价值  300  DATA 升级模块
+超光速推进器模块（C） Hyperdrive Module (C)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+毒性防护模块（A） Toxic Protection Module (A)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  300  DATA 升级模块
+毒性防护模块（B） Toxic Protection Module (B)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  140  DATA 升级模块
+扫描仪模块（C） Scanner Module (C)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+扫描仪模块（B） Scanner Module (B)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 2 基础价值  140  DATA 升级模块
+护盾模块（A） Shield Module (A)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  300  DATA 升级模块
+回旋加速模块（C） Cyclotron Module (C)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+脉冲喷射器模块（B） Pulse Spitter Module (B)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  140  DATA 升级模块
+脉冲引擎模块（C） Pulse Engine Module (C)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+低温防护模块（S） Thermal Protection Module (S)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  480  DATA 升级模块
+等离子发射器模块（A） Plasma Launcher Module (A)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  300  DATA 升级模块
+回旋加速模块（B） Cyclotron Module (B)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 2 ~ 3 基础价值  140  DATA 升级模块
+散射爆破器模块（C） Scatter Blaster Module (C)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+热能防护模块（B） Thermal Protection Module (B)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  140  DATA 升级模块
+回旋加速模块（A） Cyclotron Module (A)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 3 基础价值  300  DATA 升级模块
+飞船护罩模块（S） Starship Shield Module (S)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 基础价值  480  DATA 升级模块
+脉冲引擎模块（S） Pulse Engine Module (S)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 3 基础价值  480  DATA 升级模块
+正电子模块（A） Positron Module (A)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 3 基础价值  300  DATA 升级模块
+开采光束模块（S） Mining Beam Module (S)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 4 基础价值  480  DATA 升级模块
+正电子模块（C） Positron Module (C)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  60  DATA 升级模块
+离子闪电发射器模块（A） Boltcaster Module (A)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 3 ~ 4 基础价值  300  DATA 升级模块
+维生系统模块（S） Life Support Module (S)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  480  DATA 升级模块
+辐射防护模块（A） Radiation Protection Module (A)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  300  DATA 升级模块
+热能防护模块（A） Thermal Protection Module (A)  类型 套装升级模块 稀有度 稀有 安装后属性数量 2 基础价值  300  DATA 升级模块
+等离子发射器模块（B） Plasma Launcher Module (B)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 1 ~ 3 基础价值  140  DATA 升级模块
+光子大炮模块（S） Photon Cannon Module (S)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 3 基础价值  480  DATA 升级模块
+超光速推进器模块（B） Hyperdrive Module (B)  类型 飞船升级模块 稀有度 稀有 安装后属性数量 1 ~ 2 基础价值  140  DATA 升级模块
+火焰标枪模块（A） Blaze Javelin Module (A)  类型 多用途工具升级模块 稀有度 稀有 安装后属性数量 2 基础价值  300  DATA 升级模块
+水下防护模块（S） Underwater Protection Module (S)  类型 套装升级模块 稀有度 稀有 安装后属性数量 1 基础价值  480  DATA 升级模块
