@@ -14,6 +14,7 @@ from bs4 import BeautifulSoup
 import html5lib
 import time
 import random
+import os
 
 #伪造header
 def random_headers():
@@ -47,18 +48,22 @@ def getPage(url, timeout):
     else:
         return None
 
-
+def createDir(path):
+    if not os.path.exists(path):
+        os.mkdir(path)
 def downloadImg(url, name):
     img = requests.get(url)
     data = img.content
     imgName = url[url.rfind('/')+1:url.rfind('.')]
     suffix = url[url.rfind('.'):]
+    createDir('./spider_picture/')
     with open('./spider_picture/'+imgName+name+suffix, 'wb') as fb:
         fb.write(data)
     fb.close()
 
 
 def writeText(type, text):
+    createDir('./spider_text/')
     with open('./spider_text/'+type+'.txt', 'a', encoding='utf-8') as fb:
         fb.write(text)
     fb.close()
